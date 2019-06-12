@@ -1,0 +1,27 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 388.37 307.71">
+    <defs>
+        <style>
+            .cls-1{fill:none;}.cls-1,.cls-2{stroke:#ff7324;stroke-miterlimit:10;stroke-width:15px;}
+            .cls-2{fill: #ff7324;}
+            svg:hover .cls-2{fill: #ff5500;}
+            svg:hover .cls-1, svg:hover .cls-2 {stroke: #ff5500;}
+        </style>
+    </defs>
+    <title>singleElimination</title>
+    <rect class="cls-1" x="7.5" y="7.5" width="154.02" height="85.47" rx="20.17" ry="20.17"/>
+    <path class="cls-2"
+          d="M752.56,333.5h-26a10.23,10.23,0,0,1-10.23-10.23V267.72a10.23,10.23,0,0,1,10.23-10.23h26c5.65,0,10.23-4.65,10.23,1v77.25C762.79,341.39,758.21,333.5,752.56,333.5Z"
+          transform="translate(-706.5 -245.53)"/>
+    <rect class="cls-1" x="226.85" y="112.11" width="154.02" height="85.47" rx="20.17" ry="20.17"/>
+    <path class="cls-2"
+          d="M971.91,438.11h-26a10.23,10.23,0,0,1-10.23-10.23V372.33a10.23,10.23,0,0,1,10.23-10.23h26c5.65,0,10.23-4.65,10.23,1v77.25C982.14,446,977.56,438.11,971.91,438.11Z"
+          transform="translate(-706.5 -245.53)"/>
+    <rect class="cls-1" x="7.5" y="214.74" width="154.02" height="85.47" rx="20.17" ry="20.17"/>
+    <path class="cls-2"
+          d="M752.56,540.74h-26a10.23,10.23,0,0,1-10.23-10.23V475a10.23,10.23,0,0,1,10.23-10.23h26c5.65,0,10.23-4.65,10.23,1V543C762.79,548.63,758.21,540.74,752.56,540.74Z"
+          transform="translate(-706.5 -245.53)"/>
+    <line class="cls-1" x1="161.52" y1="51.21" x2="203.17" y2="51.21"/>
+    <line class="cls-1" x1="200.52" y1="154.85" x2="224.83" y2="154.85"/>
+    <line class="cls-1" x1="198.5" y1="43.73" x2="198.5" y2="265.96"/>
+    <line class="cls-1" x1="161.52" y1="258.44" x2="191.75" y2="258.44"/>
+</svg>
